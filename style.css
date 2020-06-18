@@ -1,0 +1,47 @@
+
+header {
+    display: inline-flex;
+}
+h1 {
+    position: absolute;
+    right: 50%;
+    bottom: 75%;
+    top: 04%;
+    font-size: 75px;
+}
+
+
+#nav-bar {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.nav-link {
+    padding: 20px;
+    margin: 20px;
+    
+}
+
+img {
+    border: 2px solid black;
+    border-radius: 50%;
+}
+    
+    
+
+
+
+body {
+    font-family: 'Lobster', cursive;
+}
+
+input {
+    position: relative;
+    left: 50%;
+    right: 50%;
+}
+
